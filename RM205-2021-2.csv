@@ -1,0 +1,994 @@
+Lower tier local authorities Code,Lower tier local authorities,Number of household spaces in shared dwellings (3 categories) Code,Number of household spaces in shared dwellings (3 categories),Observation
+E06000001,Hartlepool,1,Shared dwelling: Two household spaces,0
+E06000001,Hartlepool,2,Shared dwelling: Three or more household spaces,0
+E06000001,Hartlepool,3,Unshared dwelling,44316
+E06000002,Middlesbrough,1,Shared dwelling: Two household spaces,2
+E06000002,Middlesbrough,2,Shared dwelling: Three or more household spaces,12
+E06000002,Middlesbrough,3,Unshared dwelling,64019
+E06000003,Redcar and Cleveland,1,Shared dwelling: Two household spaces,1
+E06000003,Redcar and Cleveland,2,Shared dwelling: Three or more household spaces,3
+E06000003,Redcar and Cleveland,3,Unshared dwelling,65538
+E06000004,Stockton-on-Tees,1,Shared dwelling: Two household spaces,0
+E06000004,Stockton-on-Tees,2,Shared dwelling: Three or more household spaces,6
+E06000004,Stockton-on-Tees,3,Unshared dwelling,88442
+E06000005,Darlington,1,Shared dwelling: Two household spaces,4
+E06000005,Darlington,2,Shared dwelling: Three or more household spaces,16
+E06000005,Darlington,3,Unshared dwelling,52108
+E06000006,Halton,1,Shared dwelling: Two household spaces,1
+E06000006,Halton,2,Shared dwelling: Three or more household spaces,0
+E06000006,Halton,3,Unshared dwelling,58344
+E06000007,Warrington,1,Shared dwelling: Two household spaces,2
+E06000007,Warrington,2,Shared dwelling: Three or more household spaces,18
+E06000007,Warrington,3,Unshared dwelling,94185
+E06000008,Blackburn with Darwen,1,Shared dwelling: Two household spaces,0
+E06000008,Blackburn with Darwen,2,Shared dwelling: Three or more household spaces,8
+E06000008,Blackburn with Darwen,3,Unshared dwelling,62224
+E06000009,Blackpool,1,Shared dwelling: Two household spaces,2
+E06000009,Blackpool,2,Shared dwelling: Three or more household spaces,1
+E06000009,Blackpool,3,Unshared dwelling,72649
+E06000010,Kingston upon Hull,1,Shared dwelling: Two household spaces,20
+E06000010,Kingston upon Hull,2,Shared dwelling: Three or more household spaces,18
+E06000010,Kingston upon Hull,3,Unshared dwelling,122888
+E06000011,East Riding of Yorkshire,1,Shared dwelling: Two household spaces,3
+E06000011,East Riding of Yorkshire,2,Shared dwelling: Three or more household spaces,5
+E06000011,East Riding of Yorkshire,3,Unshared dwelling,173302
+E06000012,North East Lincolnshire,1,Shared dwelling: Two household spaces,2
+E06000012,North East Lincolnshire,2,Shared dwelling: Three or more household spaces,1
+E06000012,North East Lincolnshire,3,Unshared dwelling,73961
+E06000013,North Lincolnshire,1,Shared dwelling: Two household spaces,2
+E06000013,North Lincolnshire,2,Shared dwelling: Three or more household spaces,0
+E06000013,North Lincolnshire,3,Unshared dwelling,76284
+E06000014,York,1,Shared dwelling: Two household spaces,3
+E06000014,York,2,Shared dwelling: Three or more household spaces,17
+E06000014,York,3,Unshared dwelling,90626
+E06000015,Derby,1,Shared dwelling: Two household spaces,15
+E06000015,Derby,2,Shared dwelling: Three or more household spaces,20
+E06000015,Derby,3,Unshared dwelling,111894
+E06000016,Leicester,1,Shared dwelling: Two household spaces,19
+E06000016,Leicester,2,Shared dwelling: Three or more household spaces,45
+E06000016,Leicester,3,Unshared dwelling,134595
+E06000017,Rutland,1,Shared dwelling: Two household spaces,0
+E06000017,Rutland,2,Shared dwelling: Three or more household spaces,0
+E06000017,Rutland,3,Unshared dwelling,17648
+E06000018,Nottingham,1,Shared dwelling: Two household spaces,13
+E06000018,Nottingham,2,Shared dwelling: Three or more household spaces,5
+E06000018,Nottingham,3,Unshared dwelling,134389
+E06000019,Herefordshire,1,Shared dwelling: Two household spaces,2
+E06000019,Herefordshire,2,Shared dwelling: Three or more household spaces,19
+E06000019,Herefordshire,3,Unshared dwelling,88127
+E06000020,Telford and Wrekin,1,Shared dwelling: Two household spaces,1
+E06000020,Telford and Wrekin,2,Shared dwelling: Three or more household spaces,3
+E06000020,Telford and Wrekin,3,Unshared dwelling,79334
+E06000021,Stoke-on-Trent,1,Shared dwelling: Two household spaces,8
+E06000021,Stoke-on-Trent,2,Shared dwelling: Three or more household spaces,13
+E06000021,Stoke-on-Trent,3,Unshared dwelling,117545
+E06000022,Bath and North East Somerset,1,Shared dwelling: Two household spaces,3
+E06000022,Bath and North East Somerset,2,Shared dwelling: Three or more household spaces,4
+E06000022,Bath and North East Somerset,3,Unshared dwelling,84103
+E06000023,Bristol,1,Shared dwelling: Two household spaces,20
+E06000023,Bristol,2,Shared dwelling: Three or more household spaces,120
+E06000023,Bristol,3,Unshared dwelling,202676
+E06000024,North Somerset,1,Shared dwelling: Two household spaces,8
+E06000024,North Somerset,2,Shared dwelling: Three or more household spaces,30
+E06000024,North Somerset,3,Unshared dwelling,99889
+E06000025,South Gloucestershire,1,Shared dwelling: Two household spaces,3
+E06000025,South Gloucestershire,2,Shared dwelling: Three or more household spaces,5
+E06000025,South Gloucestershire,3,Unshared dwelling,122509
+E06000026,Plymouth,1,Shared dwelling: Two household spaces,13
+E06000026,Plymouth,2,Shared dwelling: Three or more household spaces,9
+E06000026,Plymouth,3,Unshared dwelling,121506
+E06000027,Torbay,1,Shared dwelling: Two household spaces,6
+E06000027,Torbay,2,Shared dwelling: Three or more household spaces,1
+E06000027,Torbay,3,Unshared dwelling,69301
+E06000030,Swindon,1,Shared dwelling: Two household spaces,12
+E06000030,Swindon,2,Shared dwelling: Three or more household spaces,25
+E06000030,Swindon,3,Unshared dwelling,99813
+E06000031,Peterborough,1,Shared dwelling: Two household spaces,13
+E06000031,Peterborough,2,Shared dwelling: Three or more household spaces,5
+E06000031,Peterborough,3,Unshared dwelling,87885
+E06000032,Luton,1,Shared dwelling: Two household spaces,18
+E06000032,Luton,2,Shared dwelling: Three or more household spaces,23
+E06000032,Luton,3,Unshared dwelling,81915
+E06000033,Southend-on-Sea,1,Shared dwelling: Two household spaces,24
+E06000033,Southend-on-Sea,2,Shared dwelling: Three or more household spaces,127
+E06000033,Southend-on-Sea,3,Unshared dwelling,82423
+E06000034,Thurrock,1,Shared dwelling: Two household spaces,1
+E06000034,Thurrock,2,Shared dwelling: Three or more household spaces,6
+E06000034,Thurrock,3,Unshared dwelling,69530
+E06000035,Medway,1,Shared dwelling: Two household spaces,9
+E06000035,Medway,2,Shared dwelling: Three or more household spaces,13
+E06000035,Medway,3,Unshared dwelling,117421
+E06000036,Bracknell Forest,1,Shared dwelling: Two household spaces,2
+E06000036,Bracknell Forest,2,Shared dwelling: Three or more household spaces,1
+E06000036,Bracknell Forest,3,Unshared dwelling,52494
+E06000037,West Berkshire,1,Shared dwelling: Two household spaces,3
+E06000037,West Berkshire,2,Shared dwelling: Three or more household spaces,0
+E06000037,West Berkshire,3,Unshared dwelling,69467
+E06000038,Reading,1,Shared dwelling: Two household spaces,22
+E06000038,Reading,2,Shared dwelling: Three or more household spaces,9
+E06000038,Reading,3,Unshared dwelling,72065
+E06000039,Slough,1,Shared dwelling: Two household spaces,11
+E06000039,Slough,2,Shared dwelling: Three or more household spaces,5
+E06000039,Slough,3,Unshared dwelling,56121
+E06000040,Windsor and Maidenhead,1,Shared dwelling: Two household spaces,7
+E06000040,Windsor and Maidenhead,2,Shared dwelling: Three or more household spaces,6
+E06000040,Windsor and Maidenhead,3,Unshared dwelling,65152
+E06000041,Wokingham,1,Shared dwelling: Two household spaces,0
+E06000041,Wokingham,2,Shared dwelling: Three or more household spaces,3
+E06000041,Wokingham,3,Unshared dwelling,71521
+E06000042,Milton Keynes,1,Shared dwelling: Two household spaces,9
+E06000042,Milton Keynes,2,Shared dwelling: Three or more household spaces,6
+E06000042,Milton Keynes,3,Unshared dwelling,117501
+E06000043,Brighton and Hove,1,Shared dwelling: Two household spaces,11
+E06000043,Brighton and Hove,2,Shared dwelling: Three or more household spaces,61
+E06000043,Brighton and Hove,3,Unshared dwelling,130766
+E06000044,Portsmouth,1,Shared dwelling: Two household spaces,7
+E06000044,Portsmouth,2,Shared dwelling: Three or more household spaces,8
+E06000044,Portsmouth,3,Unshared dwelling,91158
+E06000045,Southampton,1,Shared dwelling: Two household spaces,11
+E06000045,Southampton,2,Shared dwelling: Three or more household spaces,48
+E06000045,Southampton,3,Unshared dwelling,108049
+E06000046,Isle of Wight,1,Shared dwelling: Two household spaces,0
+E06000046,Isle of Wight,2,Shared dwelling: Three or more household spaces,1
+E06000046,Isle of Wight,3,Unshared dwelling,73473
+E06000047,County Durham,1,Shared dwelling: Two household spaces,0
+E06000047,County Durham,2,Shared dwelling: Three or more household spaces,0
+E06000047,County Durham,3,Unshared dwelling,248103
+E06000049,Cheshire East,1,Shared dwelling: Two household spaces,12
+E06000049,Cheshire East,2,Shared dwelling: Three or more household spaces,78
+E06000049,Cheshire East,3,Unshared dwelling,183676
+E06000050,Cheshire West and Chester,1,Shared dwelling: Two household spaces,2
+E06000050,Cheshire West and Chester,2,Shared dwelling: Three or more household spaces,8
+E06000050,Cheshire West and Chester,3,Unshared dwelling,162347
+E06000051,Shropshire,1,Shared dwelling: Two household spaces,1
+E06000051,Shropshire,2,Shared dwelling: Three or more household spaces,2
+E06000051,Shropshire,3,Unshared dwelling,147754
+E06000052,Cornwall,1,Shared dwelling: Two household spaces,9
+E06000052,Cornwall,2,Shared dwelling: Three or more household spaces,27
+E06000052,Cornwall,3,Unshared dwelling,285498
+E06000053,Isles of Scilly,1,Shared dwelling: Two household spaces,0
+E06000053,Isles of Scilly,2,Shared dwelling: Three or more household spaces,0
+E06000053,Isles of Scilly,3,Unshared dwelling,1298
+E06000054,Wiltshire,1,Shared dwelling: Two household spaces,6
+E06000054,Wiltshire,2,Shared dwelling: Three or more household spaces,13
+E06000054,Wiltshire,3,Unshared dwelling,226086
+E06000055,Bedford,1,Shared dwelling: Two household spaces,5
+E06000055,Bedford,2,Shared dwelling: Three or more household spaces,21
+E06000055,Bedford,3,Unshared dwelling,78193
+E06000056,Central Bedfordshire,1,Shared dwelling: Two household spaces,1
+E06000056,Central Bedfordshire,2,Shared dwelling: Three or more household spaces,3
+E06000056,Central Bedfordshire,3,Unshared dwelling,125252
+E06000057,Northumberland,1,Shared dwelling: Two household spaces,1
+E06000057,Northumberland,2,Shared dwelling: Three or more household spaces,0
+E06000057,Northumberland,3,Unshared dwelling,159098
+E06000058,"Bournemouth, Christchurch and Poole",1,Shared dwelling: Two household spaces,37
+E06000058,"Bournemouth, Christchurch and Poole",2,Shared dwelling: Three or more household spaces,138
+E06000058,"Bournemouth, Christchurch and Poole",3,Unshared dwelling,186046
+E06000059,Dorset,1,Shared dwelling: Two household spaces,3
+E06000059,Dorset,2,Shared dwelling: Three or more household spaces,6
+E06000059,Dorset,3,Unshared dwelling,183565
+E06000060,Buckinghamshire,1,Shared dwelling: Two household spaces,13
+E06000060,Buckinghamshire,2,Shared dwelling: Three or more household spaces,26
+E06000060,Buckinghamshire,3,Unshared dwelling,230490
+E06000061,North Northamptonshire,1,Shared dwelling: Two household spaces,7
+E06000061,North Northamptonshire,2,Shared dwelling: Three or more household spaces,8
+E06000061,North Northamptonshire,3,Unshared dwelling,155018
+E06000062,West Northamptonshire,1,Shared dwelling: Two household spaces,15
+E06000062,West Northamptonshire,2,Shared dwelling: Three or more household spaces,17
+E06000062,West Northamptonshire,3,Unshared dwelling,179713
+E07000008,Cambridge,1,Shared dwelling: Two household spaces,14
+E07000008,Cambridge,2,Shared dwelling: Three or more household spaces,21
+E07000008,Cambridge,3,Unshared dwelling,56376
+E07000009,East Cambridgeshire,1,Shared dwelling: Two household spaces,0
+E07000009,East Cambridgeshire,2,Shared dwelling: Three or more household spaces,2
+E07000009,East Cambridgeshire,3,Unshared dwelling,38857
+E07000010,Fenland,1,Shared dwelling: Two household spaces,2
+E07000010,Fenland,2,Shared dwelling: Three or more household spaces,2
+E07000010,Fenland,3,Unshared dwelling,46291
+E07000011,Huntingdonshire,1,Shared dwelling: Two household spaces,4
+E07000011,Huntingdonshire,2,Shared dwelling: Three or more household spaces,6
+E07000011,Huntingdonshire,3,Unshared dwelling,79840
+E07000012,South Cambridgeshire,1,Shared dwelling: Two household spaces,1
+E07000012,South Cambridgeshire,2,Shared dwelling: Three or more household spaces,1
+E07000012,South Cambridgeshire,3,Unshared dwelling,69471
+E07000026,Allerdale,1,Shared dwelling: Two household spaces,0
+E07000026,Allerdale,2,Shared dwelling: Three or more household spaces,2
+E07000026,Allerdale,3,Unshared dwelling,48436
+E07000027,Barrow-in-Furness,1,Shared dwelling: Two household spaces,0
+E07000027,Barrow-in-Furness,2,Shared dwelling: Three or more household spaces,7
+E07000027,Barrow-in-Furness,3,Unshared dwelling,34165
+E07000028,Carlisle,1,Shared dwelling: Two household spaces,6
+E07000028,Carlisle,2,Shared dwelling: Three or more household spaces,22
+E07000028,Carlisle,3,Unshared dwelling,53776
+E07000029,Copeland,1,Shared dwelling: Two household spaces,0
+E07000029,Copeland,2,Shared dwelling: Three or more household spaces,1
+E07000029,Copeland,3,Unshared dwelling,34143
+E07000030,Eden,1,Shared dwelling: Two household spaces,3
+E07000030,Eden,2,Shared dwelling: Three or more household spaces,16
+E07000030,Eden,3,Unshared dwelling,28648
+E07000031,South Lakeland,1,Shared dwelling: Two household spaces,3
+E07000031,South Lakeland,2,Shared dwelling: Three or more household spaces,2
+E07000031,South Lakeland,3,Unshared dwelling,55851
+E07000032,Amber Valley,1,Shared dwelling: Two household spaces,0
+E07000032,Amber Valley,2,Shared dwelling: Three or more household spaces,0
+E07000032,Amber Valley,3,Unshared dwelling,58812
+E07000033,Bolsover,1,Shared dwelling: Two household spaces,1
+E07000033,Bolsover,2,Shared dwelling: Three or more household spaces,1
+E07000033,Bolsover,3,Unshared dwelling,37242
+E07000034,Chesterfield,1,Shared dwelling: Two household spaces,1
+E07000034,Chesterfield,2,Shared dwelling: Three or more household spaces,7
+E07000034,Chesterfield,3,Unshared dwelling,49976
+E07000035,Derbyshire Dales,1,Shared dwelling: Two household spaces,0
+E07000035,Derbyshire Dales,2,Shared dwelling: Three or more household spaces,0
+E07000035,Derbyshire Dales,3,Unshared dwelling,35450
+E07000036,Erewash,1,Shared dwelling: Two household spaces,0
+E07000036,Erewash,2,Shared dwelling: Three or more household spaces,9
+E07000036,Erewash,3,Unshared dwelling,52518
+E07000037,High Peak,1,Shared dwelling: Two household spaces,0
+E07000037,High Peak,2,Shared dwelling: Three or more household spaces,1
+E07000037,High Peak,3,Unshared dwelling,43160
+E07000038,North East Derbyshire,1,Shared dwelling: Two household spaces,0
+E07000038,North East Derbyshire,2,Shared dwelling: Three or more household spaces,0
+E07000038,North East Derbyshire,3,Unshared dwelling,47271
+E07000039,South Derbyshire,1,Shared dwelling: Two household spaces,1
+E07000039,South Derbyshire,2,Shared dwelling: Three or more household spaces,0
+E07000039,South Derbyshire,3,Unshared dwelling,47564
+E07000040,East Devon,1,Shared dwelling: Two household spaces,0
+E07000040,East Devon,2,Shared dwelling: Three or more household spaces,3
+E07000040,East Devon,3,Unshared dwelling,72473
+E07000041,Exeter,1,Shared dwelling: Two household spaces,3
+E07000041,Exeter,2,Shared dwelling: Three or more household spaces,7
+E07000041,Exeter,3,Unshared dwelling,55619
+E07000042,Mid Devon,1,Shared dwelling: Two household spaces,0
+E07000042,Mid Devon,2,Shared dwelling: Three or more household spaces,0
+E07000042,Mid Devon,3,Unshared dwelling,37403
+E07000043,North Devon,1,Shared dwelling: Two household spaces,5
+E07000043,North Devon,2,Shared dwelling: Three or more household spaces,10
+E07000043,North Devon,3,Unshared dwelling,48881
+E07000044,South Hams,1,Shared dwelling: Two household spaces,3
+E07000044,South Hams,2,Shared dwelling: Three or more household spaces,0
+E07000044,South Hams,3,Unshared dwelling,46522
+E07000045,Teignbridge,1,Shared dwelling: Two household spaces,6
+E07000045,Teignbridge,2,Shared dwelling: Three or more household spaces,0
+E07000045,Teignbridge,3,Unshared dwelling,64130
+E07000046,Torridge,1,Shared dwelling: Two household spaces,1
+E07000046,Torridge,2,Shared dwelling: Three or more household spaces,2
+E07000046,Torridge,3,Unshared dwelling,33777
+E07000047,West Devon,1,Shared dwelling: Two household spaces,1
+E07000047,West Devon,2,Shared dwelling: Three or more household spaces,1
+E07000047,West Devon,3,Unshared dwelling,26420
+E07000061,Eastbourne,1,Shared dwelling: Two household spaces,7
+E07000061,Eastbourne,2,Shared dwelling: Three or more household spaces,14
+E07000061,Eastbourne,3,Unshared dwelling,49459
+E07000062,Hastings,1,Shared dwelling: Two household spaces,5
+E07000062,Hastings,2,Shared dwelling: Three or more household spaces,16
+E07000062,Hastings,3,Unshared dwelling,44167
+E07000063,Lewes,1,Shared dwelling: Two household spaces,0
+E07000063,Lewes,2,Shared dwelling: Three or more household spaces,1
+E07000063,Lewes,3,Unshared dwelling,46165
+E07000064,Rother,1,Shared dwelling: Two household spaces,1
+E07000064,Rother,2,Shared dwelling: Three or more household spaces,1
+E07000064,Rother,3,Unshared dwelling,46407
+E07000065,Wealden,1,Shared dwelling: Two household spaces,1
+E07000065,Wealden,2,Shared dwelling: Three or more household spaces,2
+E07000065,Wealden,3,Unshared dwelling,72045
+E07000066,Basildon,1,Shared dwelling: Two household spaces,1
+E07000066,Basildon,2,Shared dwelling: Three or more household spaces,0
+E07000066,Basildon,3,Unshared dwelling,79343
+E07000067,Braintree,1,Shared dwelling: Two household spaces,0
+E07000067,Braintree,2,Shared dwelling: Three or more household spaces,0
+E07000067,Braintree,3,Unshared dwelling,66799
+E07000068,Brentwood,1,Shared dwelling: Two household spaces,3
+E07000068,Brentwood,2,Shared dwelling: Three or more household spaces,0
+E07000068,Brentwood,3,Unshared dwelling,34235
+E07000069,Castle Point,1,Shared dwelling: Two household spaces,0
+E07000069,Castle Point,2,Shared dwelling: Three or more household spaces,0
+E07000069,Castle Point,3,Unshared dwelling,38772
+E07000070,Chelmsford,1,Shared dwelling: Two household spaces,6
+E07000070,Chelmsford,2,Shared dwelling: Three or more household spaces,5
+E07000070,Chelmsford,3,Unshared dwelling,78552
+E07000071,Colchester,1,Shared dwelling: Two household spaces,2
+E07000071,Colchester,2,Shared dwelling: Three or more household spaces,3
+E07000071,Colchester,3,Unshared dwelling,83158
+E07000072,Epping Forest,1,Shared dwelling: Two household spaces,0
+E07000072,Epping Forest,2,Shared dwelling: Three or more household spaces,0
+E07000072,Epping Forest,3,Unshared dwelling,57481
+E07000073,Harlow,1,Shared dwelling: Two household spaces,3
+E07000073,Harlow,2,Shared dwelling: Three or more household spaces,3
+E07000073,Harlow,3,Unshared dwelling,39286
+E07000074,Maldon,1,Shared dwelling: Two household spaces,0
+E07000074,Maldon,2,Shared dwelling: Three or more household spaces,0
+E07000074,Maldon,3,Unshared dwelling,29151
+E07000075,Rochford,1,Shared dwelling: Two household spaces,0
+E07000075,Rochford,2,Shared dwelling: Three or more household spaces,0
+E07000075,Rochford,3,Unshared dwelling,36664
+E07000076,Tendring,1,Shared dwelling: Two household spaces,0
+E07000076,Tendring,2,Shared dwelling: Three or more household spaces,6
+E07000076,Tendring,3,Unshared dwelling,72782
+E07000077,Uttlesford,1,Shared dwelling: Two household spaces,0
+E07000077,Uttlesford,2,Shared dwelling: Three or more household spaces,2
+E07000077,Uttlesford,3,Unshared dwelling,38828
+E07000078,Cheltenham,1,Shared dwelling: Two household spaces,4
+E07000078,Cheltenham,2,Shared dwelling: Three or more household spaces,2
+E07000078,Cheltenham,3,Unshared dwelling,56801
+E07000079,Cotswold,1,Shared dwelling: Two household spaces,0
+E07000079,Cotswold,2,Shared dwelling: Three or more household spaces,2
+E07000079,Cotswold,3,Unshared dwelling,45514
+E07000080,Forest of Dean,1,Shared dwelling: Two household spaces,0
+E07000080,Forest of Dean,2,Shared dwelling: Three or more household spaces,2
+E07000080,Forest of Dean,3,Unshared dwelling,39533
+E07000081,Gloucester,1,Shared dwelling: Two household spaces,7
+E07000081,Gloucester,2,Shared dwelling: Three or more household spaces,12
+E07000081,Gloucester,3,Unshared dwelling,58145
+E07000082,Stroud,1,Shared dwelling: Two household spaces,2
+E07000082,Stroud,2,Shared dwelling: Three or more household spaces,1
+E07000082,Stroud,3,Unshared dwelling,54991
+E07000083,Tewkesbury,1,Shared dwelling: Two household spaces,0
+E07000083,Tewkesbury,2,Shared dwelling: Three or more household spaces,0
+E07000083,Tewkesbury,3,Unshared dwelling,42836
+E07000084,Basingstoke and Deane,1,Shared dwelling: Two household spaces,3
+E07000084,Basingstoke and Deane,2,Shared dwelling: Three or more household spaces,5
+E07000084,Basingstoke and Deane,3,Unshared dwelling,79053
+E07000085,East Hampshire,1,Shared dwelling: Two household spaces,1
+E07000085,East Hampshire,2,Shared dwelling: Three or more household spaces,1
+E07000085,East Hampshire,3,Unshared dwelling,54716
+E07000086,Eastleigh,1,Shared dwelling: Two household spaces,1
+E07000086,Eastleigh,2,Shared dwelling: Three or more household spaces,0
+E07000086,Eastleigh,3,Unshared dwelling,58774
+E07000087,Fareham,1,Shared dwelling: Two household spaces,0
+E07000087,Fareham,2,Shared dwelling: Three or more household spaces,0
+E07000087,Fareham,3,Unshared dwelling,50583
+E07000088,Gosport,1,Shared dwelling: Two household spaces,0
+E07000088,Gosport,2,Shared dwelling: Three or more household spaces,0
+E07000088,Gosport,3,Unshared dwelling,37667
+E07000089,Hart,1,Shared dwelling: Two household spaces,0
+E07000089,Hart,2,Shared dwelling: Three or more household spaces,0
+E07000089,Hart,3,Unshared dwelling,41347
+E07000090,Havant,1,Shared dwelling: Two household spaces,1
+E07000090,Havant,2,Shared dwelling: Three or more household spaces,0
+E07000090,Havant,3,Unshared dwelling,55997
+E07000091,New Forest,1,Shared dwelling: Two household spaces,4
+E07000091,New Forest,2,Shared dwelling: Three or more household spaces,6
+E07000091,New Forest,3,Unshared dwelling,83597
+E07000092,Rushmoor,1,Shared dwelling: Two household spaces,4
+E07000092,Rushmoor,2,Shared dwelling: Three or more household spaces,14
+E07000092,Rushmoor,3,Unshared dwelling,41005
+E07000093,Test Valley,1,Shared dwelling: Two household spaces,1
+E07000093,Test Valley,2,Shared dwelling: Three or more household spaces,0
+E07000093,Test Valley,3,Unshared dwelling,57107
+E07000094,Winchester,1,Shared dwelling: Two household spaces,0
+E07000094,Winchester,2,Shared dwelling: Three or more household spaces,3
+E07000094,Winchester,3,Unshared dwelling,54455
+E07000095,Broxbourne,1,Shared dwelling: Two household spaces,2
+E07000095,Broxbourne,2,Shared dwelling: Three or more household spaces,2
+E07000095,Broxbourne,3,Unshared dwelling,41396
+E07000096,Dacorum,1,Shared dwelling: Two household spaces,0
+E07000096,Dacorum,2,Shared dwelling: Three or more household spaces,1
+E07000096,Dacorum,3,Unshared dwelling,65988
+E07000098,Hertsmere,1,Shared dwelling: Two household spaces,2
+E07000098,Hertsmere,2,Shared dwelling: Three or more household spaces,1
+E07000098,Hertsmere,3,Unshared dwelling,44923
+E07000099,North Hertfordshire,1,Shared dwelling: Two household spaces,0
+E07000099,North Hertfordshire,2,Shared dwelling: Three or more household spaces,2
+E07000099,North Hertfordshire,3,Unshared dwelling,58747
+E07000102,Three Rivers,1,Shared dwelling: Two household spaces,0
+E07000102,Three Rivers,2,Shared dwelling: Three or more household spaces,0
+E07000102,Three Rivers,3,Unshared dwelling,38422
+E07000103,Watford,1,Shared dwelling: Two household spaces,22
+E07000103,Watford,2,Shared dwelling: Three or more household spaces,113
+E07000103,Watford,3,Unshared dwelling,41277
+E07000105,Ashford,1,Shared dwelling: Two household spaces,6
+E07000105,Ashford,2,Shared dwelling: Three or more household spaces,9
+E07000105,Ashford,3,Unshared dwelling,56640
+E07000106,Canterbury,1,Shared dwelling: Two household spaces,2
+E07000106,Canterbury,2,Shared dwelling: Three or more household spaces,9
+E07000106,Canterbury,3,Unshared dwelling,67935
+E07000107,Dartford,1,Shared dwelling: Two household spaces,0
+E07000107,Dartford,2,Shared dwelling: Three or more household spaces,3
+E07000107,Dartford,3,Unshared dwelling,47918
+E07000108,Dover,1,Shared dwelling: Two household spaces,3
+E07000108,Dover,2,Shared dwelling: Three or more household spaces,8
+E07000108,Dover,3,Unshared dwelling,54708
+E07000109,Gravesham,1,Shared dwelling: Two household spaces,4
+E07000109,Gravesham,2,Shared dwelling: Three or more household spaces,24
+E07000109,Gravesham,3,Unshared dwelling,44043
+E07000110,Maidstone,1,Shared dwelling: Two household spaces,9
+E07000110,Maidstone,2,Shared dwelling: Three or more household spaces,4
+E07000110,Maidstone,3,Unshared dwelling,75545
+E07000111,Sevenoaks,1,Shared dwelling: Two household spaces,2
+E07000111,Sevenoaks,2,Shared dwelling: Three or more household spaces,4
+E07000111,Sevenoaks,3,Unshared dwelling,51602
+E07000112,Folkestone and Hythe,1,Shared dwelling: Two household spaces,5
+E07000112,Folkestone and Hythe,2,Shared dwelling: Three or more household spaces,23
+E07000112,Folkestone and Hythe,3,Unshared dwelling,53080
+E07000113,Swale,1,Shared dwelling: Two household spaces,0
+E07000113,Swale,2,Shared dwelling: Three or more household spaces,0
+E07000113,Swale,3,Unshared dwelling,66200
+E07000114,Thanet,1,Shared dwelling: Two household spaces,5
+E07000114,Thanet,2,Shared dwelling: Three or more household spaces,6
+E07000114,Thanet,3,Unshared dwelling,68953
+E07000115,Tonbridge and Malling,1,Shared dwelling: Two household spaces,0
+E07000115,Tonbridge and Malling,2,Shared dwelling: Three or more household spaces,0
+E07000115,Tonbridge and Malling,3,Unshared dwelling,55487
+E07000116,Tunbridge Wells,1,Shared dwelling: Two household spaces,4
+E07000116,Tunbridge Wells,2,Shared dwelling: Three or more household spaces,4
+E07000116,Tunbridge Wells,3,Unshared dwelling,50927
+E07000117,Burnley,1,Shared dwelling: Two household spaces,2
+E07000117,Burnley,2,Shared dwelling: Three or more household spaces,0
+E07000117,Burnley,3,Unshared dwelling,41953
+E07000118,Chorley,1,Shared dwelling: Two household spaces,0
+E07000118,Chorley,2,Shared dwelling: Three or more household spaces,0
+E07000118,Chorley,3,Unshared dwelling,52367
+E07000119,Fylde,1,Shared dwelling: Two household spaces,0
+E07000119,Fylde,2,Shared dwelling: Three or more household spaces,0
+E07000119,Fylde,3,Unshared dwelling,40510
+E07000120,Hyndburn,1,Shared dwelling: Two household spaces,0
+E07000120,Hyndburn,2,Shared dwelling: Three or more household spaces,3
+E07000120,Hyndburn,3,Unshared dwelling,37204
+E07000121,Lancaster,1,Shared dwelling: Two household spaces,2
+E07000121,Lancaster,2,Shared dwelling: Three or more household spaces,4
+E07000121,Lancaster,3,Unshared dwelling,65397
+E07000122,Pendle,1,Shared dwelling: Two household spaces,0
+E07000122,Pendle,2,Shared dwelling: Three or more household spaces,3
+E07000122,Pendle,3,Unshared dwelling,41017
+E07000123,Preston,1,Shared dwelling: Two household spaces,3
+E07000123,Preston,2,Shared dwelling: Three or more household spaces,2
+E07000123,Preston,3,Unshared dwelling,63551
+E07000124,Ribble Valley,1,Shared dwelling: Two household spaces,0
+E07000124,Ribble Valley,2,Shared dwelling: Three or more household spaces,0
+E07000124,Ribble Valley,3,Unshared dwelling,28537
+E07000125,Rossendale,1,Shared dwelling: Two household spaces,1
+E07000125,Rossendale,2,Shared dwelling: Three or more household spaces,0
+E07000125,Rossendale,3,Unshared dwelling,32322
+E07000126,South Ribble,1,Shared dwelling: Two household spaces,0
+E07000126,South Ribble,2,Shared dwelling: Three or more household spaces,3
+E07000126,South Ribble,3,Unshared dwelling,50592
+E07000127,West Lancashire,1,Shared dwelling: Two household spaces,2
+E07000127,West Lancashire,2,Shared dwelling: Three or more household spaces,7
+E07000127,West Lancashire,3,Unshared dwelling,51374
+E07000128,Wyre,1,Shared dwelling: Two household spaces,1
+E07000128,Wyre,2,Shared dwelling: Three or more household spaces,1
+E07000128,Wyre,3,Unshared dwelling,54137
+E07000129,Blaby,1,Shared dwelling: Two household spaces,0
+E07000129,Blaby,2,Shared dwelling: Three or more household spaces,0
+E07000129,Blaby,3,Unshared dwelling,43635
+E07000130,Charnwood,1,Shared dwelling: Two household spaces,3
+E07000130,Charnwood,2,Shared dwelling: Three or more household spaces,9
+E07000130,Charnwood,3,Unshared dwelling,77011
+E07000131,Harborough,1,Shared dwelling: Two household spaces,0
+E07000131,Harborough,2,Shared dwelling: Three or more household spaces,0
+E07000131,Harborough,3,Unshared dwelling,41901
+E07000132,Hinckley and Bosworth,1,Shared dwelling: Two household spaces,0
+E07000132,Hinckley and Bosworth,2,Shared dwelling: Three or more household spaces,0
+E07000132,Hinckley and Bosworth,3,Unshared dwelling,51017
+E07000133,Melton,1,Shared dwelling: Two household spaces,0
+E07000133,Melton,2,Shared dwelling: Three or more household spaces,0
+E07000133,Melton,3,Unshared dwelling,23608
+E07000134,North West Leicestershire,1,Shared dwelling: Two household spaces,0
+E07000134,North West Leicestershire,2,Shared dwelling: Three or more household spaces,2
+E07000134,North West Leicestershire,3,Unshared dwelling,46686
+E07000135,Oadby and Wigston,1,Shared dwelling: Two household spaces,0
+E07000135,Oadby and Wigston,2,Shared dwelling: Three or more household spaces,1
+E07000135,Oadby and Wigston,3,Unshared dwelling,23570
+E07000136,Boston,1,Shared dwelling: Two household spaces,0
+E07000136,Boston,2,Shared dwelling: Three or more household spaces,1
+E07000136,Boston,3,Unshared dwelling,30890
+E07000137,East Lindsey,1,Shared dwelling: Two household spaces,3
+E07000137,East Lindsey,2,Shared dwelling: Three or more household spaces,5
+E07000137,East Lindsey,3,Unshared dwelling,88386
+E07000138,Lincoln,1,Shared dwelling: Two household spaces,7
+E07000138,Lincoln,2,Shared dwelling: Three or more household spaces,31
+E07000138,Lincoln,3,Unshared dwelling,45077
+E07000139,North Kesteven,1,Shared dwelling: Two household spaces,0
+E07000139,North Kesteven,2,Shared dwelling: Three or more household spaces,0
+E07000139,North Kesteven,3,Unshared dwelling,52752
+E07000140,South Holland,1,Shared dwelling: Two household spaces,3
+E07000140,South Holland,2,Shared dwelling: Three or more household spaces,1
+E07000140,South Holland,3,Unshared dwelling,42426
+E07000141,South Kesteven,1,Shared dwelling: Two household spaces,0
+E07000141,South Kesteven,2,Shared dwelling: Three or more household spaces,2
+E07000141,South Kesteven,3,Unshared dwelling,65712
+E07000142,West Lindsey,1,Shared dwelling: Two household spaces,0
+E07000142,West Lindsey,2,Shared dwelling: Three or more household spaces,0
+E07000142,West Lindsey,3,Unshared dwelling,44737
+E07000143,Breckland,1,Shared dwelling: Two household spaces,2
+E07000143,Breckland,2,Shared dwelling: Three or more household spaces,1
+E07000143,Breckland,3,Unshared dwelling,63151
+E07000144,Broadland,1,Shared dwelling: Two household spaces,0
+E07000144,Broadland,2,Shared dwelling: Three or more household spaces,1
+E07000144,Broadland,3,Unshared dwelling,59869
+E07000145,Great Yarmouth,1,Shared dwelling: Two household spaces,4
+E07000145,Great Yarmouth,2,Shared dwelling: Three or more household spaces,4
+E07000145,Great Yarmouth,3,Unshared dwelling,49305
+E07000146,King's Lynn and West Norfolk,1,Shared dwelling: Two household spaces,4
+E07000146,King's Lynn and West Norfolk,2,Shared dwelling: Three or more household spaces,6
+E07000146,King's Lynn and West Norfolk,3,Unshared dwelling,74772
+E07000147,North Norfolk,1,Shared dwelling: Two household spaces,1
+E07000147,North Norfolk,2,Shared dwelling: Three or more household spaces,0
+E07000147,North Norfolk,3,Unshared dwelling,56679
+E07000148,Norwich,1,Shared dwelling: Two household spaces,3
+E07000148,Norwich,2,Shared dwelling: Three or more household spaces,30
+E07000148,Norwich,3,Unshared dwelling,67591
+E07000149,South Norfolk,1,Shared dwelling: Two household spaces,0
+E07000149,South Norfolk,2,Shared dwelling: Three or more household spaces,0
+E07000149,South Norfolk,3,Unshared dwelling,63849
+E07000163,Craven,1,Shared dwelling: Two household spaces,1
+E07000163,Craven,2,Shared dwelling: Three or more household spaces,1
+E07000163,Craven,3,Unshared dwelling,28673
+E07000164,Hambleton,1,Shared dwelling: Two household spaces,0
+E07000164,Hambleton,2,Shared dwelling: Three or more household spaces,0
+E07000164,Hambleton,3,Unshared dwelling,43574
+E07000165,Harrogate,1,Shared dwelling: Two household spaces,2
+E07000165,Harrogate,2,Shared dwelling: Three or more household spaces,12
+E07000165,Harrogate,3,Unshared dwelling,75372
+E07000166,Richmondshire,1,Shared dwelling: Two household spaces,1
+E07000166,Richmondshire,2,Shared dwelling: Three or more household spaces,1
+E07000166,Richmondshire,3,Unshared dwelling,23608
+E07000167,Ryedale,1,Shared dwelling: Two household spaces,0
+E07000167,Ryedale,2,Shared dwelling: Three or more household spaces,1
+E07000167,Ryedale,3,Unshared dwelling,27367
+E07000168,Scarborough,1,Shared dwelling: Two household spaces,1
+E07000168,Scarborough,2,Shared dwelling: Three or more household spaces,10
+E07000168,Scarborough,3,Unshared dwelling,59335
+E07000169,Selby,1,Shared dwelling: Two household spaces,0
+E07000169,Selby,2,Shared dwelling: Three or more household spaces,2
+E07000169,Selby,3,Unshared dwelling,41177
+E07000170,Ashfield,1,Shared dwelling: Two household spaces,1
+E07000170,Ashfield,2,Shared dwelling: Three or more household spaces,0
+E07000170,Ashfield,3,Unshared dwelling,56681
+E07000171,Bassetlaw,1,Shared dwelling: Two household spaces,2
+E07000171,Bassetlaw,2,Shared dwelling: Three or more household spaces,1
+E07000171,Bassetlaw,3,Unshared dwelling,54366
+E07000172,Broxtowe,1,Shared dwelling: Two household spaces,2
+E07000172,Broxtowe,2,Shared dwelling: Three or more household spaces,3
+E07000172,Broxtowe,3,Unshared dwelling,50618
+E07000173,Gedling,1,Shared dwelling: Two household spaces,0
+E07000173,Gedling,2,Shared dwelling: Three or more household spaces,1
+E07000173,Gedling,3,Unshared dwelling,53478
+E07000174,Mansfield,1,Shared dwelling: Two household spaces,3
+E07000174,Mansfield,2,Shared dwelling: Three or more household spaces,7
+E07000174,Mansfield,3,Unshared dwelling,50510
+E07000175,Newark and Sherwood,1,Shared dwelling: Two household spaces,3
+E07000175,Newark and Sherwood,2,Shared dwelling: Three or more household spaces,0
+E07000175,Newark and Sherwood,3,Unshared dwelling,56065
+E07000176,Rushcliffe,1,Shared dwelling: Two household spaces,0
+E07000176,Rushcliffe,2,Shared dwelling: Three or more household spaces,0
+E07000176,Rushcliffe,3,Unshared dwelling,51985
+E07000177,Cherwell,1,Shared dwelling: Two household spaces,6
+E07000177,Cherwell,2,Shared dwelling: Three or more household spaces,14
+E07000177,Cherwell,3,Unshared dwelling,69181
+E07000178,Oxford,1,Shared dwelling: Two household spaces,12
+E07000178,Oxford,2,Shared dwelling: Three or more household spaces,50
+E07000178,Oxford,3,Unshared dwelling,58918
+E07000179,South Oxfordshire,1,Shared dwelling: Two household spaces,0
+E07000179,South Oxfordshire,2,Shared dwelling: Three or more household spaces,2
+E07000179,South Oxfordshire,3,Unshared dwelling,64436
+E07000180,Vale of White Horse,1,Shared dwelling: Two household spaces,2
+E07000180,Vale of White Horse,2,Shared dwelling: Three or more household spaces,0
+E07000180,Vale of White Horse,3,Unshared dwelling,60445
+E07000181,West Oxfordshire,1,Shared dwelling: Two household spaces,0
+E07000181,West Oxfordshire,2,Shared dwelling: Three or more household spaces,1
+E07000181,West Oxfordshire,3,Unshared dwelling,51076
+E07000187,Mendip,1,Shared dwelling: Two household spaces,2
+E07000187,Mendip,2,Shared dwelling: Three or more household spaces,0
+E07000187,Mendip,3,Unshared dwelling,53495
+E07000188,Sedgemoor,1,Shared dwelling: Two household spaces,0
+E07000188,Sedgemoor,2,Shared dwelling: Three or more household spaces,4
+E07000188,Sedgemoor,3,Unshared dwelling,56820
+E07000189,South Somerset,1,Shared dwelling: Two household spaces,1
+E07000189,South Somerset,2,Shared dwelling: Three or more household spaces,1
+E07000189,South Somerset,3,Unshared dwelling,79807
+E07000192,Cannock Chase,1,Shared dwelling: Two household spaces,1
+E07000192,Cannock Chase,2,Shared dwelling: Three or more household spaces,2
+E07000192,Cannock Chase,3,Unshared dwelling,44839
+E07000193,East Staffordshire,1,Shared dwelling: Two household spaces,5
+E07000193,East Staffordshire,2,Shared dwelling: Three or more household spaces,4
+E07000193,East Staffordshire,3,Unshared dwelling,53600
+E07000194,Lichfield,1,Shared dwelling: Two household spaces,2
+E07000194,Lichfield,2,Shared dwelling: Three or more household spaces,2
+E07000194,Lichfield,3,Unshared dwelling,47010
+E07000195,Newcastle-under-Lyme,1,Shared dwelling: Two household spaces,0
+E07000195,Newcastle-under-Lyme,2,Shared dwelling: Three or more household spaces,1
+E07000195,Newcastle-under-Lyme,3,Unshared dwelling,56297
+E07000196,South Staffordshire,1,Shared dwelling: Two household spaces,1
+E07000196,South Staffordshire,2,Shared dwelling: Three or more household spaces,0
+E07000196,South Staffordshire,3,Unshared dwelling,47945
+E07000197,Stafford,1,Shared dwelling: Two household spaces,2
+E07000197,Stafford,2,Shared dwelling: Three or more household spaces,15
+E07000197,Stafford,3,Unshared dwelling,62594
+E07000198,Staffordshire Moorlands,1,Shared dwelling: Two household spaces,2
+E07000198,Staffordshire Moorlands,2,Shared dwelling: Three or more household spaces,0
+E07000198,Staffordshire Moorlands,3,Unshared dwelling,44794
+E07000199,Tamworth,1,Shared dwelling: Two household spaces,0
+E07000199,Tamworth,2,Shared dwelling: Three or more household spaces,0
+E07000199,Tamworth,3,Unshared dwelling,33892
+E07000200,Babergh,1,Shared dwelling: Two household spaces,0
+E07000200,Babergh,2,Shared dwelling: Three or more household spaces,0
+E07000200,Babergh,3,Unshared dwelling,41843
+E07000202,Ipswich,1,Shared dwelling: Two household spaces,14
+E07000202,Ipswich,2,Shared dwelling: Three or more household spaces,30
+E07000202,Ipswich,3,Unshared dwelling,61412
+E07000203,Mid Suffolk,1,Shared dwelling: Two household spaces,1
+E07000203,Mid Suffolk,2,Shared dwelling: Three or more household spaces,0
+E07000203,Mid Suffolk,3,Unshared dwelling,46166
+E07000207,Elmbridge,1,Shared dwelling: Two household spaces,3
+E07000207,Elmbridge,2,Shared dwelling: Three or more household spaces,6
+E07000207,Elmbridge,3,Unshared dwelling,58898
+E07000208,Epsom and Ewell,1,Shared dwelling: Two household spaces,0
+E07000208,Epsom and Ewell,2,Shared dwelling: Three or more household spaces,2
+E07000208,Epsom and Ewell,3,Unshared dwelling,32600
+E07000209,Guildford,1,Shared dwelling: Two household spaces,7
+E07000209,Guildford,2,Shared dwelling: Three or more household spaces,0
+E07000209,Guildford,3,Unshared dwelling,59021
+E07000210,Mole Valley,1,Shared dwelling: Two household spaces,1
+E07000210,Mole Valley,2,Shared dwelling: Three or more household spaces,1
+E07000210,Mole Valley,3,Unshared dwelling,38905
+E07000211,Reigate and Banstead,1,Shared dwelling: Two household spaces,0
+E07000211,Reigate and Banstead,2,Shared dwelling: Three or more household spaces,5
+E07000211,Reigate and Banstead,3,Unshared dwelling,62504
+E07000212,Runnymede,1,Shared dwelling: Two household spaces,0
+E07000212,Runnymede,2,Shared dwelling: Three or more household spaces,3
+E07000212,Runnymede,3,Unshared dwelling,37076
+E07000213,Spelthorne,1,Shared dwelling: Two household spaces,1
+E07000213,Spelthorne,2,Shared dwelling: Three or more household spaces,3
+E07000213,Spelthorne,3,Unshared dwelling,43694
+E07000214,Surrey Heath,1,Shared dwelling: Two household spaces,6
+E07000214,Surrey Heath,2,Shared dwelling: Three or more household spaces,9
+E07000214,Surrey Heath,3,Unshared dwelling,37576
+E07000215,Tandridge,1,Shared dwelling: Two household spaces,3
+E07000215,Tandridge,2,Shared dwelling: Three or more household spaces,2
+E07000215,Tandridge,3,Unshared dwelling,37372
+E07000216,Waverley,1,Shared dwelling: Two household spaces,2
+E07000216,Waverley,2,Shared dwelling: Three or more household spaces,1
+E07000216,Waverley,3,Unshared dwelling,54965
+E07000217,Woking,1,Shared dwelling: Two household spaces,2
+E07000217,Woking,2,Shared dwelling: Three or more household spaces,0
+E07000217,Woking,3,Unshared dwelling,43566
+E07000218,North Warwickshire,1,Shared dwelling: Two household spaces,0
+E07000218,North Warwickshire,2,Shared dwelling: Three or more household spaces,0
+E07000218,North Warwickshire,3,Unshared dwelling,29027
+E07000219,Nuneaton and Bedworth,1,Shared dwelling: Two household spaces,3
+E07000219,Nuneaton and Bedworth,2,Shared dwelling: Three or more household spaces,2
+E07000219,Nuneaton and Bedworth,3,Unshared dwelling,58602
+E07000220,Rugby,1,Shared dwelling: Two household spaces,9
+E07000220,Rugby,2,Shared dwelling: Three or more household spaces,0
+E07000220,Rugby,3,Unshared dwelling,49089
+E07000221,Stratford-on-Avon,1,Shared dwelling: Two household spaces,0
+E07000221,Stratford-on-Avon,2,Shared dwelling: Three or more household spaces,2
+E07000221,Stratford-on-Avon,3,Unshared dwelling,63463
+E07000222,Warwick,1,Shared dwelling: Two household spaces,0
+E07000222,Warwick,2,Shared dwelling: Three or more household spaces,16
+E07000222,Warwick,3,Unshared dwelling,66367
+E07000223,Adur,1,Shared dwelling: Two household spaces,0
+E07000223,Adur,2,Shared dwelling: Three or more household spaces,11
+E07000223,Adur,3,Unshared dwelling,28678
+E07000224,Arun,1,Shared dwelling: Two household spaces,1
+E07000224,Arun,2,Shared dwelling: Three or more household spaces,5
+E07000224,Arun,3,Unshared dwelling,76721
+E07000225,Chichester,1,Shared dwelling: Two household spaces,0
+E07000225,Chichester,2,Shared dwelling: Three or more household spaces,0
+E07000225,Chichester,3,Unshared dwelling,59691
+E07000226,Crawley,1,Shared dwelling: Two household spaces,2
+E07000226,Crawley,2,Shared dwelling: Three or more household spaces,0
+E07000226,Crawley,3,Unshared dwelling,46707
+E07000227,Horsham,1,Shared dwelling: Two household spaces,0
+E07000227,Horsham,2,Shared dwelling: Three or more household spaces,2
+E07000227,Horsham,3,Unshared dwelling,64855
+E07000228,Mid Sussex,1,Shared dwelling: Two household spaces,3
+E07000228,Mid Sussex,2,Shared dwelling: Three or more household spaces,23
+E07000228,Mid Sussex,3,Unshared dwelling,66012
+E07000229,Worthing,1,Shared dwelling: Two household spaces,9
+E07000229,Worthing,2,Shared dwelling: Three or more household spaces,100
+E07000229,Worthing,3,Unshared dwelling,51364
+E07000234,Bromsgrove,1,Shared dwelling: Two household spaces,2
+E07000234,Bromsgrove,2,Shared dwelling: Three or more household spaces,0
+E07000234,Bromsgrove,3,Unshared dwelling,42732
+E07000235,Malvern Hills,1,Shared dwelling: Two household spaces,0
+E07000235,Malvern Hills,2,Shared dwelling: Three or more household spaces,1
+E07000235,Malvern Hills,3,Unshared dwelling,36964
+E07000236,Redditch,1,Shared dwelling: Two household spaces,1
+E07000236,Redditch,2,Shared dwelling: Three or more household spaces,0
+E07000236,Redditch,3,Unshared dwelling,37733
+E07000237,Worcester,1,Shared dwelling: Two household spaces,3
+E07000237,Worcester,2,Shared dwelling: Three or more household spaces,7
+E07000237,Worcester,3,Unshared dwelling,46648
+E07000238,Wychavon,1,Shared dwelling: Two household spaces,2
+E07000238,Wychavon,2,Shared dwelling: Three or more household spaces,1
+E07000238,Wychavon,3,Unshared dwelling,59857
+E07000239,Wyre Forest,1,Shared dwelling: Two household spaces,0
+E07000239,Wyre Forest,2,Shared dwelling: Three or more household spaces,3
+E07000239,Wyre Forest,3,Unshared dwelling,48115
+E07000240,St Albans,1,Shared dwelling: Two household spaces,7
+E07000240,St Albans,2,Shared dwelling: Three or more household spaces,5
+E07000240,St Albans,3,Unshared dwelling,62010
+E07000241,Welwyn Hatfield,1,Shared dwelling: Two household spaces,6
+E07000241,Welwyn Hatfield,2,Shared dwelling: Three or more household spaces,0
+E07000241,Welwyn Hatfield,3,Unshared dwelling,48591
+E07000242,East Hertfordshire,1,Shared dwelling: Two household spaces,3
+E07000242,East Hertfordshire,2,Shared dwelling: Three or more household spaces,0
+E07000242,East Hertfordshire,3,Unshared dwelling,64689
+E07000243,Stevenage,1,Shared dwelling: Two household spaces,12
+E07000243,Stevenage,2,Shared dwelling: Three or more household spaces,5
+E07000243,Stevenage,3,Unshared dwelling,37760
+E07000244,East Suffolk,1,Shared dwelling: Two household spaces,1
+E07000244,East Suffolk,2,Shared dwelling: Three or more household spaces,0
+E07000244,East Suffolk,3,Unshared dwelling,120526
+E07000245,West Suffolk,1,Shared dwelling: Two household spaces,3
+E07000245,West Suffolk,2,Shared dwelling: Three or more household spaces,5
+E07000245,West Suffolk,3,Unshared dwelling,81615
+E07000246,Somerset West and Taunton,1,Shared dwelling: Two household spaces,3
+E07000246,Somerset West and Taunton,2,Shared dwelling: Three or more household spaces,9
+E07000246,Somerset West and Taunton,3,Unshared dwelling,74793
+E08000001,Bolton,1,Shared dwelling: Two household spaces,6
+E08000001,Bolton,2,Shared dwelling: Three or more household spaces,0
+E08000001,Bolton,3,Unshared dwelling,126090
+E08000002,Bury,1,Shared dwelling: Two household spaces,2
+E08000002,Bury,2,Shared dwelling: Three or more household spaces,3
+E08000002,Bury,3,Unshared dwelling,84620
+E08000003,Manchester,1,Shared dwelling: Two household spaces,28
+E08000003,Manchester,2,Shared dwelling: Three or more household spaces,30
+E08000003,Manchester,3,Unshared dwelling,232847
+E08000004,Oldham,1,Shared dwelling: Two household spaces,3
+E08000004,Oldham,2,Shared dwelling: Three or more household spaces,1
+E08000004,Oldham,3,Unshared dwelling,97845
+E08000005,Rochdale,1,Shared dwelling: Two household spaces,0
+E08000005,Rochdale,2,Shared dwelling: Three or more household spaces,0
+E08000005,Rochdale,3,Unshared dwelling,95941
+E08000006,Salford,1,Shared dwelling: Two household spaces,14
+E08000006,Salford,2,Shared dwelling: Three or more household spaces,7
+E08000006,Salford,3,Unshared dwelling,125141
+E08000007,Stockport,1,Shared dwelling: Two household spaces,4
+E08000007,Stockport,2,Shared dwelling: Three or more household spaces,3
+E08000007,Stockport,3,Unshared dwelling,131380
+E08000008,Tameside,1,Shared dwelling: Two household spaces,0
+E08000008,Tameside,2,Shared dwelling: Three or more household spaces,1
+E08000008,Tameside,3,Unshared dwelling,104027
+E08000009,Trafford,1,Shared dwelling: Two household spaces,4
+E08000009,Trafford,2,Shared dwelling: Three or more household spaces,2
+E08000009,Trafford,3,Unshared dwelling,100749
+E08000010,Wigan,1,Shared dwelling: Two household spaces,4
+E08000010,Wigan,2,Shared dwelling: Three or more household spaces,3
+E08000010,Wigan,3,Unshared dwelling,149067
+E08000011,Knowsley,1,Shared dwelling: Two household spaces,1
+E08000011,Knowsley,2,Shared dwelling: Three or more household spaces,0
+E08000011,Knowsley,3,Unshared dwelling,69671
+E08000012,Liverpool,1,Shared dwelling: Two household spaces,18
+E08000012,Liverpool,2,Shared dwelling: Three or more household spaces,16
+E08000012,Liverpool,3,Unshared dwelling,227437
+E08000013,St. Helens,1,Shared dwelling: Two household spaces,6
+E08000013,St. Helens,2,Shared dwelling: Three or more household spaces,16
+E08000013,St. Helens,3,Unshared dwelling,85130
+E08000014,Sefton,1,Shared dwelling: Two household spaces,7
+E08000014,Sefton,2,Shared dwelling: Three or more household spaces,6
+E08000014,Sefton,3,Unshared dwelling,130133
+E08000015,Wirral,1,Shared dwelling: Two household spaces,7
+E08000015,Wirral,2,Shared dwelling: Three or more household spaces,89
+E08000015,Wirral,3,Unshared dwelling,150822
+E08000016,Barnsley,1,Shared dwelling: Two household spaces,6
+E08000016,Barnsley,2,Shared dwelling: Three or more household spaces,19
+E08000016,Barnsley,3,Unshared dwelling,113600
+E08000017,Doncaster,1,Shared dwelling: Two household spaces,16
+E08000017,Doncaster,2,Shared dwelling: Three or more household spaces,84
+E08000017,Doncaster,3,Unshared dwelling,140309
+E08000018,Rotherham,1,Shared dwelling: Two household spaces,0
+E08000018,Rotherham,2,Shared dwelling: Three or more household spaces,13
+E08000018,Rotherham,3,Unshared dwelling,119355
+E08000019,Sheffield,1,Shared dwelling: Two household spaces,16
+E08000019,Sheffield,2,Shared dwelling: Three or more household spaces,31
+E08000019,Sheffield,3,Unshared dwelling,245582
+E08000021,Newcastle upon Tyne,1,Shared dwelling: Two household spaces,3
+E08000021,Newcastle upon Tyne,2,Shared dwelling: Three or more household spaces,2
+E08000021,Newcastle upon Tyne,3,Unshared dwelling,129548
+E08000022,North Tyneside,1,Shared dwelling: Two household spaces,2
+E08000022,North Tyneside,2,Shared dwelling: Three or more household spaces,0
+E08000022,North Tyneside,3,Unshared dwelling,100067
+E08000023,South Tyneside,1,Shared dwelling: Two household spaces,2
+E08000023,South Tyneside,2,Shared dwelling: Three or more household spaces,0
+E08000023,South Tyneside,3,Unshared dwelling,72179
+E08000024,Sunderland,1,Shared dwelling: Two household spaces,2
+E08000024,Sunderland,2,Shared dwelling: Three or more household spaces,0
+E08000024,Sunderland,3,Unshared dwelling,130364
+E08000025,Birmingham,1,Shared dwelling: Two household spaces,58
+E08000025,Birmingham,2,Shared dwelling: Three or more household spaces,43
+E08000025,Birmingham,3,Unshared dwelling,446191
+E08000026,Coventry,1,Shared dwelling: Two household spaces,24
+E08000026,Coventry,2,Shared dwelling: Three or more household spaces,57
+E08000026,Coventry,3,Unshared dwelling,143327
+E08000027,Dudley,1,Shared dwelling: Two household spaces,2
+E08000027,Dudley,2,Shared dwelling: Three or more household spaces,7
+E08000027,Dudley,3,Unshared dwelling,140277
+E08000028,Sandwell,1,Shared dwelling: Two household spaces,8
+E08000028,Sandwell,2,Shared dwelling: Three or more household spaces,13
+E08000028,Sandwell,3,Unshared dwelling,134735
+E08000029,Solihull,1,Shared dwelling: Two household spaces,0
+E08000029,Solihull,2,Shared dwelling: Three or more household spaces,0
+E08000029,Solihull,3,Unshared dwelling,94271
+E08000030,Walsall,1,Shared dwelling: Two household spaces,5
+E08000030,Walsall,2,Shared dwelling: Three or more household spaces,2
+E08000030,Walsall,3,Unshared dwelling,117209
+E08000031,Wolverhampton,1,Shared dwelling: Two household spaces,15
+E08000031,Wolverhampton,2,Shared dwelling: Three or more household spaces,52
+E08000031,Wolverhampton,3,Unshared dwelling,112335
+E08000032,Bradford,1,Shared dwelling: Two household spaces,37
+E08000032,Bradford,2,Shared dwelling: Three or more household spaces,188
+E08000032,Bradford,3,Unshared dwelling,219534
+E08000033,Calderdale,1,Shared dwelling: Two household spaces,1
+E08000033,Calderdale,2,Shared dwelling: Three or more household spaces,2
+E08000033,Calderdale,3,Unshared dwelling,96246
+E08000034,Kirklees,1,Shared dwelling: Two household spaces,13
+E08000034,Kirklees,2,Shared dwelling: Three or more household spaces,67
+E08000034,Kirklees,3,Unshared dwelling,188028
+E08000035,Leeds,1,Shared dwelling: Two household spaces,62
+E08000035,Leeds,2,Shared dwelling: Three or more household spaces,214
+E08000035,Leeds,3,Unshared dwelling,357184
+E08000036,Wakefield,1,Shared dwelling: Two household spaces,6
+E08000036,Wakefield,2,Shared dwelling: Three or more household spaces,7
+E08000036,Wakefield,3,Unshared dwelling,161060
+E08000037,Gateshead,1,Shared dwelling: Two household spaces,1
+E08000037,Gateshead,2,Shared dwelling: Three or more household spaces,2
+E08000037,Gateshead,3,Unshared dwelling,94051
+E09000001,City of London,1,Shared dwelling: Two household spaces,0
+E09000001,City of London,2,Shared dwelling: Three or more household spaces,0
+E09000001,City of London,3,Unshared dwelling,7323
+E09000002,Barking and Dagenham,1,Shared dwelling: Two household spaces,14
+E09000002,Barking and Dagenham,2,Shared dwelling: Three or more household spaces,6
+E09000002,Barking and Dagenham,3,Unshared dwelling,76935
+E09000003,Barnet,1,Shared dwelling: Two household spaces,70
+E09000003,Barnet,2,Shared dwelling: Three or more household spaces,158
+E09000003,Barnet,3,Unshared dwelling,155919
+E09000004,Bexley,1,Shared dwelling: Two household spaces,9
+E09000004,Bexley,2,Shared dwelling: Three or more household spaces,2
+E09000004,Bexley,3,Unshared dwelling,99301
+E09000005,Brent,1,Shared dwelling: Two household spaces,103
+E09000005,Brent,2,Shared dwelling: Three or more household spaces,27
+E09000005,Brent,3,Unshared dwelling,127730
+E09000006,Bromley,1,Shared dwelling: Two household spaces,6
+E09000006,Bromley,2,Shared dwelling: Three or more household spaces,25
+E09000006,Bromley,3,Unshared dwelling,142051
+E09000007,Camden,1,Shared dwelling: Two household spaces,16
+E09000007,Camden,2,Shared dwelling: Three or more household spaces,9
+E09000007,Camden,3,Unshared dwelling,108211
+E09000008,Croydon,1,Shared dwelling: Two household spaces,46
+E09000008,Croydon,2,Shared dwelling: Three or more household spaces,122
+E09000008,Croydon,3,Unshared dwelling,162105
+E09000009,Ealing,1,Shared dwelling: Two household spaces,78
+E09000009,Ealing,2,Shared dwelling: Three or more household spaces,55
+E09000009,Ealing,3,Unshared dwelling,141993
+E09000010,Enfield,1,Shared dwelling: Two household spaces,46
+E09000010,Enfield,2,Shared dwelling: Three or more household spaces,14
+E09000010,Enfield,3,Unshared dwelling,127996
+E09000011,Greenwich,1,Shared dwelling: Two household spaces,30
+E09000011,Greenwich,2,Shared dwelling: Three or more household spaces,63
+E09000011,Greenwich,3,Unshared dwelling,120921
+E09000012,Hackney,1,Shared dwelling: Two household spaces,26
+E09000012,Hackney,2,Shared dwelling: Three or more household spaces,24
+E09000012,Hackney,3,Unshared dwelling,116291
+E09000013,Hammersmith and Fulham,1,Shared dwelling: Two household spaces,24
+E09000013,Hammersmith and Fulham,2,Shared dwelling: Three or more household spaces,11
+E09000013,Hammersmith and Fulham,3,Unshared dwelling,92858
+E09000014,Haringey,1,Shared dwelling: Two household spaces,114
+E09000014,Haringey,2,Shared dwelling: Three or more household spaces,53
+E09000014,Haringey,3,Unshared dwelling,113162
+E09000015,Harrow,1,Shared dwelling: Two household spaces,25
+E09000015,Harrow,2,Shared dwelling: Three or more household spaces,18
+E09000015,Harrow,3,Unshared dwelling,94750
+E09000016,Havering,1,Shared dwelling: Two household spaces,9
+E09000016,Havering,2,Shared dwelling: Three or more household spaces,14
+E09000016,Havering,3,Unshared dwelling,106534
+E09000017,Hillingdon,1,Shared dwelling: Two household spaces,34
+E09000017,Hillingdon,2,Shared dwelling: Three or more household spaces,23
+E09000017,Hillingdon,3,Unshared dwelling,115417
+E09000018,Hounslow,1,Shared dwelling: Two household spaces,59
+E09000018,Hounslow,2,Shared dwelling: Three or more household spaces,63
+E09000018,Hounslow,3,Unshared dwelling,108012
+E09000019,Islington,1,Shared dwelling: Two household spaces,18
+E09000019,Islington,2,Shared dwelling: Three or more household spaces,5
+E09000019,Islington,3,Unshared dwelling,106873
+E09000020,Kensington and Chelsea,1,Shared dwelling: Two household spaces,11
+E09000020,Kensington and Chelsea,2,Shared dwelling: Three or more household spaces,33
+E09000020,Kensington and Chelsea,3,Unshared dwelling,89185
+E09000021,Kingston upon Thames,1,Shared dwelling: Two household spaces,39
+E09000021,Kingston upon Thames,2,Shared dwelling: Three or more household spaces,91
+E09000021,Kingston upon Thames,3,Unshared dwelling,68755
+E09000022,Lambeth,1,Shared dwelling: Two household spaces,62
+E09000022,Lambeth,2,Shared dwelling: Three or more household spaces,82
+E09000022,Lambeth,3,Unshared dwelling,146267
+E09000023,Lewisham,1,Shared dwelling: Two household spaces,26
+E09000023,Lewisham,2,Shared dwelling: Three or more household spaces,70
+E09000023,Lewisham,3,Unshared dwelling,131356
+E09000024,Merton,1,Shared dwelling: Two household spaces,18
+E09000024,Merton,2,Shared dwelling: Three or more household spaces,30
+E09000024,Merton,3,Unshared dwelling,86575
+E09000025,Newham,1,Shared dwelling: Two household spaces,67
+E09000025,Newham,2,Shared dwelling: Three or more household spaces,33
+E09000025,Newham,3,Unshared dwelling,124913
+E09000026,Redbridge,1,Shared dwelling: Two household spaces,32
+E09000026,Redbridge,2,Shared dwelling: Three or more household spaces,57
+E09000026,Redbridge,3,Unshared dwelling,107400
+E09000027,Richmond upon Thames,1,Shared dwelling: Two household spaces,5
+E09000027,Richmond upon Thames,2,Shared dwelling: Three or more household spaces,15
+E09000027,Richmond upon Thames,3,Unshared dwelling,85567
+E09000028,Southwark,1,Shared dwelling: Two household spaces,36
+E09000028,Southwark,2,Shared dwelling: Three or more household spaces,28
+E09000028,Southwark,3,Unshared dwelling,141896
+E09000029,Sutton,1,Shared dwelling: Two household spaces,8
+E09000029,Sutton,2,Shared dwelling: Three or more household spaces,34
+E09000029,Sutton,3,Unshared dwelling,85207
+E09000030,Tower Hamlets,1,Shared dwelling: Two household spaces,27
+E09000030,Tower Hamlets,2,Shared dwelling: Three or more household spaces,14
+E09000030,Tower Hamlets,3,Unshared dwelling,134432
+E09000031,Waltham Forest,1,Shared dwelling: Two household spaces,36
+E09000031,Waltham Forest,2,Shared dwelling: Three or more household spaces,19
+E09000031,Waltham Forest,3,Unshared dwelling,108117
+E09000032,Wandsworth,1,Shared dwelling: Two household spaces,21
+E09000032,Wandsworth,2,Shared dwelling: Three or more household spaces,46
+E09000032,Wandsworth,3,Unshared dwelling,150400
+E09000033,Westminster,1,Shared dwelling: Two household spaces,19
+E09000033,Westminster,2,Shared dwelling: Three or more household spaces,21
+E09000033,Westminster,3,Unshared dwelling,128873
+W06000001,Isle of Anglesey,1,Shared dwelling: Two household spaces,0
+W06000001,Isle of Anglesey,2,Shared dwelling: Three or more household spaces,0
+W06000001,Isle of Anglesey,3,Unshared dwelling,36217
+W06000002,Gwynedd,1,Shared dwelling: Two household spaces,0
+W06000002,Gwynedd,2,Shared dwelling: Three or more household spaces,0
+W06000002,Gwynedd,3,Unshared dwelling,63220
+W06000003,Conwy,1,Shared dwelling: Two household spaces,0
+W06000003,Conwy,2,Shared dwelling: Three or more household spaces,1
+W06000003,Conwy,3,Unshared dwelling,57983
+W06000004,Denbighshire,1,Shared dwelling: Two household spaces,4
+W06000004,Denbighshire,2,Shared dwelling: Three or more household spaces,17
+W06000004,Denbighshire,3,Unshared dwelling,50305
+W06000005,Flintshire,1,Shared dwelling: Two household spaces,0
+W06000005,Flintshire,2,Shared dwelling: Three or more household spaces,4
+W06000005,Flintshire,3,Unshared dwelling,70549
+W06000006,Wrexham,1,Shared dwelling: Two household spaces,2
+W06000006,Wrexham,2,Shared dwelling: Three or more household spaces,3
+W06000006,Wrexham,3,Unshared dwelling,61251
+W06000008,Ceredigion,1,Shared dwelling: Two household spaces,1
+W06000008,Ceredigion,2,Shared dwelling: Three or more household spaces,2
+W06000008,Ceredigion,3,Unshared dwelling,36740
+W06000009,Pembrokeshire,1,Shared dwelling: Two household spaces,3
+W06000009,Pembrokeshire,2,Shared dwelling: Three or more household spaces,0
+W06000009,Pembrokeshire,3,Unshared dwelling,64399
+W06000010,Carmarthenshire,1,Shared dwelling: Two household spaces,0
+W06000010,Carmarthenshire,2,Shared dwelling: Three or more household spaces,2
+W06000010,Carmarthenshire,3,Unshared dwelling,89402
+W06000011,Swansea,1,Shared dwelling: Two household spaces,8
+W06000011,Swansea,2,Shared dwelling: Three or more household spaces,19
+W06000011,Swansea,3,Unshared dwelling,114434
+W06000012,Neath Port Talbot,1,Shared dwelling: Two household spaces,0
+W06000012,Neath Port Talbot,2,Shared dwelling: Three or more household spaces,0
+W06000012,Neath Port Talbot,3,Unshared dwelling,66404
+W06000013,Bridgend,1,Shared dwelling: Two household spaces,3
+W06000013,Bridgend,2,Shared dwelling: Three or more household spaces,8
+W06000013,Bridgend,3,Unshared dwelling,65541
+W06000014,Vale of Glamorgan,1,Shared dwelling: Two household spaces,1
+W06000014,Vale of Glamorgan,2,Shared dwelling: Three or more household spaces,0
+W06000014,Vale of Glamorgan,3,Unshared dwelling,60608
+W06000015,Cardiff,1,Shared dwelling: Two household spaces,15
+W06000015,Cardiff,2,Shared dwelling: Three or more household spaces,16
+W06000015,Cardiff,3,Unshared dwelling,155908
+W06000016,Rhondda Cynon Taf,1,Shared dwelling: Two household spaces,1
+W06000016,Rhondda Cynon Taf,2,Shared dwelling: Three or more household spaces,3
+W06000016,Rhondda Cynon Taf,3,Unshared dwelling,110748
+W06000018,Caerphilly,1,Shared dwelling: Two household spaces,0
+W06000018,Caerphilly,2,Shared dwelling: Three or more household spaces,7
+W06000018,Caerphilly,3,Unshared dwelling,80204
+W06000019,Blaenau Gwent,1,Shared dwelling: Two household spaces,0
+W06000019,Blaenau Gwent,2,Shared dwelling: Three or more household spaces,0
+W06000019,Blaenau Gwent,3,Unshared dwelling,32864
+W06000020,Torfaen,1,Shared dwelling: Two household spaces,0
+W06000020,Torfaen,2,Shared dwelling: Three or more household spaces,0
+W06000020,Torfaen,3,Unshared dwelling,42756
+W06000021,Monmouthshire,1,Shared dwelling: Two household spaces,2
+W06000021,Monmouthshire,2,Shared dwelling: Three or more household spaces,0
+W06000021,Monmouthshire,3,Unshared dwelling,43456
+W06000022,Newport,1,Shared dwelling: Two household spaces,10
+W06000022,Newport,2,Shared dwelling: Three or more household spaces,39
+W06000022,Newport,3,Unshared dwelling,69671
+W06000023,Powys,1,Shared dwelling: Two household spaces,0
+W06000023,Powys,2,Shared dwelling: Three or more household spaces,0
+W06000023,Powys,3,Unshared dwelling,66866
+W06000024,Merthyr Tydfil,1,Shared dwelling: Two household spaces,0
+W06000024,Merthyr Tydfil,2,Shared dwelling: Three or more household spaces,0
+W06000024,Merthyr Tydfil,3,Unshared dwelling,27491

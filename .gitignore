@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+*.pot
+*.pyc
+#db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+.venv
+*.env
+*.venv
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Coverage and test files
+htmlcov/
+coverage.xml
+*.cover
+.cache
+.nosetests
+.pytest_cache/
+
+# Migrations (optional, only if you're not sharing migrations)
+# **/migrations/*.pyc
+# **/migrations/*.pyo
+# **/migrations/__pycache__/
+
+# IDEs
+.idea/
+*.swp
+
+# Node/npm stuff (if using frontend tools)
+node_modules/
+npm-debug.log
+yarn-error.log
