@@ -6,8 +6,8 @@ def main():
     """Main function to prepare census dwelling data for Land Registry matching."""
 
     # Load the data files
-    lookup_df = pd.read_csv('../../Local_Authority_District_to_Region_(December_2023)_Lookup_in_England.csv')
-    census_df = pd.read_csv('../../RM205-2021-2.csv')
+    lookup_df = pd.read_csv('module_1/week_8/Local_Authority_District_to_Region_(December_2023)_Lookup_in_England.csv')
+    census_df = pd.read_csv('module_1/week_8/RM205-2021-2.csv')
 
     # Display initial data structure
     print("=== Census Data Structure ===")
@@ -92,7 +92,7 @@ def main():
     print(final_df[['Unshared_Dwellings', 'Shared_Dwellings', 'Total_Dwellings']].describe())
 
     # Save to CSV
-    output_file = '../../census_dwelling_data_prepared.csv'
+    output_file = 'module_1/week_8/census_dwelling_data_prepared.csv'
     final_df.to_csv(output_file, index=False)
     print(f"\n✓ Data saved to: {output_file}")
 
@@ -107,7 +107,7 @@ def main():
     print(regional_summary)
 
     # Save regional summary
-    regional_output = 'census_dwelling_regional_summary.csv'
+    regional_output = 'module_1/week_8/census_dwelling_regional_summary.csv'
     regional_summary.to_csv(regional_output, index=False)
     print(f"\n✓ Regional summary saved to: {regional_output}")
 

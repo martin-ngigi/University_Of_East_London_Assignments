@@ -186,7 +186,7 @@ def main():
 
     # Load property price data
     print("\nLoading property price data...")
-    property_df = load_property_data('pp-monthly-update-new-version.csv')
+    property_df = load_property_data('module_1/week_8/pp-monthly-update-new-version.csv')
 
     # Process data (filter by date, status, property type)
     print("\nProcessing data...")
@@ -203,7 +203,7 @@ def main():
     # Load lookup data (from Task 3 output)
     print("\nLoading lookup data...")
     try:
-        lookup_df = pd.read_csv('census_dwelling_data_prepared.csv')
+        lookup_df = pd.read_csv('module_1/week_8/census_dwelling_data_prepared.csv')
 
         # Match with lookup
         print("\nMatching with lookup data...")
@@ -223,7 +223,7 @@ def main():
 
         # Create Excel file with multiple sheets
         print("\nCreating Excel output file...")
-        with pd.ExcelWriter('property_analysis_output.xlsx', engine='openpyxl') as writer:
+        with pd.ExcelWriter('module_1/week_8/property_analysis_output.xlsx', engine='openpyxl') as writer:
             pivot_district.to_excel(writer, sheet_name='District_Pivot', index=False)
             matched_df.to_excel(writer, sheet_name='District_Matched', index=False)
             regional_df.to_excel(writer, sheet_name='Regional_Summary', index=False)
@@ -231,7 +231,7 @@ def main():
         print("\n✓ Excel file saved to: property_analysis_output.xlsx")
 
     except FileNotFoundError:
-        print("\n⚠ Warning: census_dwelling_data_prepared.csv not found.")
+        print("\n⚠ Warning: module_1/week_8/census_dwelling_data_prepared.csv not found.")
         print("Please run Task 3 first to generate the lookup file.")
         print("Saving pivot table only.")
 
