@@ -1,0 +1,11 @@
+Region_Code,Region_Name,Total_Dwellings,Sales_Detached,Sales_Flats,Sales_Semi,Sales_Terraced,Total_Sales,Pct_Detached,Pct_Flats,Pct_Semi,Pct_Terraced,Sales_Rate,Max_Detached,Max_Flats,Max_Semi,Max_Terraced,Max_Sales_Rate
+E12000001,North East,1247892,170,91,286,369,916,18.56,9.93,31.22,40.28,0.07,False,False,False,True,False
+E12000002,North West,3103733,349,227,657,808,2041,17.1,11.12,32.19,39.59,0.07,False,False,False,False,False
+E12000003,Yorkshire and The Humber,2178812,301,113,463,497,1374,21.91,8.22,33.7,36.17,0.06,False,False,False,False,False
+E12000004,East Midlands,2156637,529,67,468,346,1410,37.52,4.75,33.19,24.54,0.07,True,False,False,False,False
+E12000005,West Midlands,2551097,379,150,537,443,1509,25.12,9.94,35.59,29.36,0.06,False,False,True,False,False
+E12000006,East of England,2762292,657,289,655,625,2226,29.51,12.98,29.42,28.08,0.08,False,False,False,False,True
+E12000007,London,3715724,73,800,311,534,1718,4.25,46.57,18.1,31.08,0.05,False,True,False,False,False
+E12000008,South East,4026339,787,494,863,908,3052,25.79,16.19,28.28,29.75,0.08,False,False,False,False,True
+E12000009,South West,2365907,558,239,407,519,1723,32.39,13.87,23.62,30.12,0.07,False,False,False,False,False
+NATIONAL,England & Wales,24108433,3803,2470,4647,5049,15969,23.81,15.47,29.1,31.62,0.07,False,False,False,False,False
